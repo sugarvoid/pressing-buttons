@@ -5,7 +5,7 @@ This was an old abandon project, that I decided to just finish. Nothing flashy, 
 Playable on [itch](https://sugarvoid.itch.io/pressing-buttons)
 
 ## Gameplay
-![gameplay](https://github.com/sugarvoid/pressing-buttonsblob/master/gameplay.gif)
+![gameplay](https://github.com/sugarvoid/pressing-buttons/blob/master/gameplay.gif)
 <br>
 
 ## Cart
